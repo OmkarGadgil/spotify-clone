@@ -5,6 +5,9 @@ function App() {
   return (
     <div className="App">
       <h1>Lets build it!</h1>
+      {/*Spotify Logo */}
+      {/*Spotify Login */}
+
     </div>
   );
 }
